@@ -1,0 +1,9 @@
+#!/home/donatien/Documents/mychat/myvenv/bin/python
+# -*- coding: utf-8 -*-
+import re
+import sys,os
+from dona import aff
+
+if __name__ == '__main__':
+    sys.exit(aff())
+	#os.system("python /home/donatien/Documents/mychat/myvenv/bin/dona.py")
